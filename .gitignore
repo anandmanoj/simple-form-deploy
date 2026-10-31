@@ -5,3 +5,6 @@ dist
 *.log
 .neon
 .env.local
+
+.wrangler
+.env
